@@ -41,4 +41,4 @@ jobs:
       # 5️⃣ تشغيل البوت
       - name: Run Telegram Bot
         run: |
-          python main.py
+          python telegram_bot.py
